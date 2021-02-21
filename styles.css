@@ -1,0 +1,14 @@
+
+    hr{
+        border-style:none;
+        border-top-style: dotted;
+        border-color:gray;
+        background-color:white;
+        border-width:5px;
+        width:80%
+        
+    }
+    img
+    {
+        background-color:white;
+    }
